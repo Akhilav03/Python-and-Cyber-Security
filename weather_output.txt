@@ -1,0 +1,9 @@
+Enter the city name: Punalur
+-------------------------------------------------------------
+Weather Stats for - PUNALUR  || 23 Jun 2021 | 08:55:49 AM
+-------------------------------------------------------------
+Current temperature is: 29.82 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 57 %
+Current wind speed    : 3.64 kmph
+ 
